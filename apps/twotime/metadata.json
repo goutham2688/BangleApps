@@ -6,7 +6,7 @@
   "description": "fork of wav clock with indian time dispalyed in side",
   "tags": "",
   "storage": [
-    {"name":"timer.app.js","url":"app.js"},
-    {"name":"timer.img","url":"app-icon.js","evaluate":true}
+    {"name":"twotime.app.js","url":"app.js"},
+    {"name":"twotime.img","url":"app-icon.js","evaluate":true}
   ]
 }
