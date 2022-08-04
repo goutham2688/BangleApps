@@ -4,6 +4,7 @@
   "icon": "app.png",
   "version":"0.01",
   "description": "fork of wav clock with indian time dispalyed in side",
+  "supports": ["BANGLEJS2"],
   "tags": "",
   "storage": [
     {"name":"twotime.app.js","url":"app.js"},
