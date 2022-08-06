@@ -1,3 +1,5 @@
+This is a fork of banglejs, so i can create a new watch app that displays both local time and Indian time.
+
 Bangle.js App Loader (and Apps)
 ================================
 
